@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    font-family: courier;
+}
+div{
+    height: 100px;
+  }
+  
+  
+  .yellow{
+    background-color: #f5d106;
+  }
+  
+  .black{
+    background-color: #000;
+  }
+
+  .py{
+    color:black;
+    padding: 5px;
+  }
+
+  .pb{
+    color:white;
+    padding: 5px;
+  }
+
+  .principal{
+    width: 300px;
+  }
